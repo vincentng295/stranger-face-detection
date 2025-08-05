@@ -1,0 +1,11 @@
+opencv-python
+numpy
+Pillow
+scikit-learn
+joblib
+requests
+ultralytics
+tensorflow
+keras
+keras-facenet
+
